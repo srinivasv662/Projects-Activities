@@ -72,5 +72,5 @@ const puppeteer = require('puppeteer');
 
     // console.log(totalVideos);
     console.log(ans);
-    // await browser.close();
+    await browser.close();
 })();
